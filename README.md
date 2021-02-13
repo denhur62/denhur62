@@ -1,15 +1,17 @@
-<img src="https://user-images.githubusercontent.com/63595768/107846016-b08eee80-6e23-11eb-843a-cab2496b2bbe.jpg" alt="profile" style="zoom:150%;" />
+<img src="https://user-images.githubusercontent.com/63595768/107858821-8831df00-6e79-11eb-86a1-ebf8d631e6a7.png" alt="profile2" style="zoom:150%;" />
 
-### Hi there 👋
-
-
+### 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Flask-A4A4A4?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-8A4B08?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-FF0000?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-086A87?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-FF0000?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Android-04B431?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Firebase-B18904?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
 </p>
+
