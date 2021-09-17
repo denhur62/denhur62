@@ -20,3 +20,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
 
+
+📂Blog : https://velog.io/@denhur62
+
+✉Mail : denhur62@naver.com
+
